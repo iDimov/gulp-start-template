@@ -22,3 +22,5 @@ $ npm run prod
 ### Production Build Instructions:
 1. When you are ready to create project files that are ready for a production environment, run the `gulp prod` task.
 2. Once this process completes, the public folder will contain production-ready files.
+
+More info https://github.com/demersdesigns/baseplate
