@@ -1,2 +1,4 @@
 "use strict";
-$(function(){});
+$(function(){
+   console.log('it works');
+});
